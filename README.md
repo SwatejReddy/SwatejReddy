@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hello, World! I'm [Your Name]
+🚀 Full Stack Web Developer | 🤖 ML Enthusiast
+I'm passionate about creating robust web applications and exploring the fascinating world of machine learning. Welcome to my GitHub profile!
+💻 Tech Stack
+Frontend
 
-<!--
-**SwatejReddy/SwatejReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚛️ React
+🔥 Next.js
+🎨 Tailwind CSS
+🧰 shadcn/ui
 
-Here are some ideas to get you started:
+Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 TypeScript
+🟢 Node.js
+🚂 Express
+🐘 PostgreSQL
+🔷 Prisma
+🐍 Python
+🌶️ Flask
+
+Machine Learning
+
+🔢 NumPy
+🐼 pandas
+📊 Matplotlib
+🧠 scikit-learn
