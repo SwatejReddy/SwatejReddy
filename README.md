@@ -1,4 +1,4 @@
-👋 Hello, World! I'm [Your Name]
+👋 Hello, World! I'm Swatej Reddy
 🚀 Full Stack Web Developer | 🤖 ML Enthusiast
 I'm passionate about creating robust web applications and exploring the fascinating world of machine learning. Welcome to my GitHub profile!
 💻 Tech Stack
