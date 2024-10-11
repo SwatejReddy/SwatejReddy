@@ -5,7 +5,6 @@ I'm passionate about creating robust web applications and exploring the fascinat
 Frontend
 
 ⚛️ React
-🔥 Next.js
 🎨 Tailwind CSS
 🧰 shadcn/ui
 
