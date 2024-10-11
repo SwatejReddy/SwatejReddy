@@ -18,11 +18,4 @@ Backend
 🐍 Python
 🌶️ Flask
 
-Machine Learning
-
-🔢 NumPy
-🐼 pandas
-📊 Matplotlib
-🧠 scikit-learn
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SwatejReddy)
